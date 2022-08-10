@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SayeedR
-- 👀 I’m interested to become a Automation test engineer. 
-- 🌱 I’m currently learning SQA
+- 🌱 I’m currently learning SQA Automation testing
 -  Manual Testing : Requirement Analysis, Test Planning And Designing, Writing and Reviewing 
     Test Cases, Test Execution and Evaluation, Creating Test Report, Root cause analysis & Bug 
     Reporting using test management tools
