@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SayeedR
-- 🌱 I’m currently learning SQA Automation testing
+- 🌱 I’m currently Working as a SQA Automation Engineer in Saimon Global Ltd.
 •	Web Automation Testing Tools: Selenium, Katalon Studio, TestProject
 •	Manual Testing : Requirement Analysis, Test Planning, Designing, Writing and Reviewing Test Cases, Test Execution and Evaluation, Creating Test Report, Root cause analysis & Bug Reporting using test management tools
 •	Performance Testing Tool: JMeter
