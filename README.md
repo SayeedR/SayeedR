@@ -11,7 +11,7 @@
 •	Programming Language: JAVA, Python
 •	Database: MySQL
 •	Source and Version Control: GitHub
-- 🌱 strong knowledge in javaScript,java,
+- 🌱 strong knowledge in python
 <!---
 SayeedR/SayeedR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
